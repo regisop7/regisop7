@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- ABOUT OF ME -->
+<p align="center" style="text-align: center;">
+ Régis Oliveira Vilanova | Desenvolvedor Back-end<br><br>
 
-<!--
-**regisop7/regisop7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥 Tenho 21 anos e busco oportunidade para ingressar no mercado de trabalho, cursando Ciências da Computação na Universidade Estadual de Mato-Grosso(UNEMAT) e no momento estudando e me desenvolvendo como dev, aplicando boas praticas de desenvolvimento nos meus projetos.
 
-Here are some ideas to get you started:
+Ferramentas de uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Back-End -> Java, Spring Boot, APIs REST, JPA / Hibernate.
+- Banco de Dados -> PostgreSQL, MySQL.
+- APIs e Documentação -> Sweggar, ApiDog, Postman.
+- DevOps -> Docker, Grafana.
+- Ferramentas -> Git, GitHub
+- Outros -> Boas práticas de desenvolvimento, metodologias ágeis.
+
+##
+<div align="center">
+  <a href="https:///www.instagram.com/regisop.7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/regis-oliveira-19ba1b306/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##
+<p align="center">
+- 📫 Entre em contato comigo pelo meu email: <a href="oficialdev78@gmail.com">oficialdev78@gmail.com</a>
+</p>
