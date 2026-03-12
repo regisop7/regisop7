@@ -4,7 +4,7 @@
 
 🖥 Tenho 21 anos e busco oportunidade para ingressar no mercado de trabalho, cursando Ciências da Computação na Universidade Estadual de Mato-Grosso(UNEMAT) e no momento estudando e me desenvolvendo como dev, aplicando boas praticas de desenvolvimento nos meus projetos.
 
-Ferramentas de uso
+Conhecimentos
 
 - Back-End -> Java, Spring Boot, APIs REST, JPA / Hibernate.
 - Banco de Dados -> PostgreSQL, MySQL.
