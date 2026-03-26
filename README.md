@@ -6,7 +6,7 @@
 
 Conhecimentos
 
-- Back-End -> Java, Spring Boot, APIs REST, JPA / Hibernate.
+- Back-End -> Java, Spring Boot, Rest Api.
 - Banco de Dados -> PostgreSQL, MySQL.
 - APIs e Documentação -> Sweggar, ApiDog, Postman.
 - DevOps -> Docker, Grafana.
