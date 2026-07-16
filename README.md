@@ -2,7 +2,7 @@
 <p align="center" style="text-align: center;">
  Régis Oliveira Vilanova | Desenvolvedor Back-end<br><br>
 
-🖥 Tenho 21 anos e busco oportunidade para ingressar no mercado de trabalho, cursando Ciências da Computação na Universidade Estadual de Mato-Grosso(UNEMAT) e no momento estudando e me desenvolvendo como dev, aplicando boas praticas de desenvolvimento nos meus projetos.
+🖥 Tenho 21 anos,estou cursando Ciências da Computação na Universidade Estadual de Mato-Grosso(UNEMAT) e no momento estudando e me desenvolvendo como dev, aplicando boas praticas de desenvolvimento nos meus projetos.
 
 Conhecimentos
 
